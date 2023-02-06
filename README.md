@@ -1,5 +1,5 @@
 # Cisco Packet Tracer ile Banka Network Simülasyonu
-![Cisco Packet Tracer ile Banka Network Simülasyonu](Cisco Packet Tracer ile Banka Network Simülasyonu.png)
+![proje](proje.png)
 A bankası İstanbul, Ankara ve İzmir olmak üzere 3 farklı şehirde şube açmayı planlamaktadır. Her şehirdeki şubeler 3 kattan oluşmaktadır. Bunlar; 
 
 1.Kat İnsan Kaynakları, Bütçe ve Muhasebe, İnsan Kaynakları ve Toplantı Odası.
